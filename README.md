@@ -12,6 +12,11 @@ Horiseon website is ready to be taken to next level as everything is organized a
 Screen Shot:
 
 ![Readmescreenshot](assets/images/readme1.png)
+![Readmescreenshot](assets/images/readme2.png)
+![Readmescreenshot](assets/images/readme3.png)
 
+Website: 
+https://danyalkhanzada.github.io/horiseon/
 
-link: 
+Contributed by: 
+Danyal Khanzada 
