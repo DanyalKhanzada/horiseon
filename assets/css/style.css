@@ -71,8 +71,12 @@ footer h2 {
     background-position: center;
 }
 
-/* Float Rules */
+/* Main Section Rules */
 
+.main-section {
+    display: inline-block;
+    width: 75%;
+}
 .float-left {
     float: left;
     margin-right: 25px;
@@ -84,11 +88,6 @@ footer h2 {
 }
 
 /* Search Engine Optimization Start */ 
-.main-section {
-    display: inline-block;
-    width: 75%;
-}
-
 .content {
     margin-left: 20px;
     margin-bottom: 20px;
