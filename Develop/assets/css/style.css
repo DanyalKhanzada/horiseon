@@ -10,7 +10,6 @@ body {
 }
 
 /* Style to header */
-
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -47,10 +46,9 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
-/* Header Style Ends */
+
 
 /* Footer Style Start */
-
 footer {
     padding: 30px;
     clear: both;
@@ -62,7 +60,6 @@ footer h2 {
     font-size: 20px;
 }
 
-/* Footer Style End */
 
 /* Hero Style Start */
 .hero {
@@ -93,8 +90,6 @@ footer h2 {
 }
 
 .content {
-    /* width: 75%; */
-    /* display: inline-block; */
     margin-left: 20px;
     margin-bottom: 20px;
     padding: 50px;
@@ -118,7 +113,6 @@ footer h2 {
 
 /* Online Reputation Management */
 .online-reputation-management { 
-    /* width: 75%; */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -142,8 +136,8 @@ footer h2 {
 }
 
 /* Social Media Marketing */
+
 .social-media-marketing {
-    /* width: 75%; */
     margin-left: 20px;
     margin-bottom: 20px;
     padding: 50px;
